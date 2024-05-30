@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "Q1Pi7KI2ZxOvOyXewgh2fKTLbypdMqbqrEciS0tYgVE=",
+  "Source": "HotelReservarion_PL",
+  "BasePath": "_content/HotelReservarion_PL",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "HotelReservarion_PL\\wwwroot",
+      "Source": "HotelReservarion_PL",
+      "ContentRoot": "D:\\Projects\\HotelReservarion_API\\HotelReservarion_PL\\wwwroot\\",
+      "BasePath": "_content/HotelReservarion_PL",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

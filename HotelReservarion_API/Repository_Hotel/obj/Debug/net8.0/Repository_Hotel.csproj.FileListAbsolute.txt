@@ -1,0 +1,17 @@
+D:\Projects\HotelReservarion_API\Repository_Hotel\bin\Debug\net8.0\Repository_Hotel.deps.json
+D:\Projects\HotelReservarion_API\Repository_Hotel\bin\Debug\net8.0\Repository_Hotel.dll
+D:\Projects\HotelReservarion_API\Repository_Hotel\bin\Debug\net8.0\Repository_Hotel.pdb
+D:\Projects\HotelReservarion_API\Repository_Hotel\obj\Debug\net8.0\Repository_Hotel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\HotelReservarion_API\Repository_Hotel\obj\Debug\net8.0\Repository_Hotel.AssemblyInfoInputs.cache
+D:\Projects\HotelReservarion_API\Repository_Hotel\obj\Debug\net8.0\Repository_Hotel.AssemblyInfo.cs
+D:\Projects\HotelReservarion_API\Repository_Hotel\obj\Debug\net8.0\Repository_Hotel.csproj.CoreCompileInputs.cache
+D:\Projects\HotelReservarion_API\Repository_Hotel\obj\Debug\net8.0\Repository_Hotel.dll
+D:\Projects\HotelReservarion_API\Repository_Hotel\obj\Debug\net8.0\refint\Repository_Hotel.dll
+D:\Projects\HotelReservarion_API\Repository_Hotel\obj\Debug\net8.0\Repository_Hotel.pdb
+D:\Projects\HotelReservarion_API\Repository_Hotel\obj\Debug\net8.0\ref\Repository_Hotel.dll
+D:\Projects\HotelReservarion_API\Repository_Hotel\bin\Debug\net8.0\Hotel_Core_Layer.dll
+D:\Projects\HotelReservarion_API\Repository_Hotel\bin\Debug\net8.0\Hotel_Core_Layer.pdb
+D:\Projects\HotelReservarion_API\Repository_Hotel\obj\Debug\net8.0\Repository_Hotel.csproj.AssemblyReference.cache
+D:\Projects\HotelReservarion_API\Repository_Hotel\obj\Debug\net8.0\Reposito.1F314826.Up2Date
+D:\Projects\HotelReservarion_API\Repository_Hotel\bin\Debug\net8.0\Repository_Hotel.runtimeconfig.json
+D:\Projects\HotelReservarion_API\Repository_Hotel\obj\Debug\net8.0\Repository_Hotel.genruntimeconfig.cache

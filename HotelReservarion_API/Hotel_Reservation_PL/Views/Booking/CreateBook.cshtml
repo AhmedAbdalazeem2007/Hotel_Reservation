@@ -1,0 +1,65 @@
+﻿@model BookViewModel
+@{
+    ViewData["Title"] = "CreateBook";
+    Layout = "~/Views/Shared/BookinLayout.cshtml";
+}
+
+
+<h1>Create New Booking</h1>
+<br />
+<br />
+<form method="post" asp-action="Create">
+<div class="container">
+    <div asp-validation-summary="All"></div>
+    <div class="form-group">
+            <label asp-for="CustomerName" class="col-form-label"></label>
+        <input asp-for="CustomerName" class="form-control"/>
+        <span asp-validation-for="CustomerName"></span>
+    </div>
+    <div class="form-group">
+            <label asp-for="PhoneNumber" class="col-form-label"></label>
+        <input asp-for="PhoneNumber" class="form-control" />
+        <span asp-validation-for="PhoneNumber"></span>
+    </div>
+    <div class="form-group">
+            <label asp-for="CheckIn" class="col-form-label"></label>
+        <input asp-for="CheckIn" class="form-control" />
+        <span asp-validation-for="CheckIn"></span>
+    </div>
+    <div class="form-group">
+            <label asp-for="CheckOut" class="col-form-label"></label>
+        <input asp-for="CheckOut" class="form-control" />
+        <span asp-validation-for="CheckOut"></span>
+    </div>
+    <div class="form-group">
+            <label asp-for="CountRooms" class="col-form-label"></label>
+        <input asp-for="CountRooms" class="form-control" />
+        <span asp-validation-for="CountRooms"></span>
+    </div>
+    <div class="form-group">
+            <label asp-for="NationalId" class="col-form-label"></label>
+        <input asp-for="NationalId" class="form-control" />
+        <span asp-validation-for="NationalId"></span>
+    </div>
+    <div class="form-group">
+            <label asp-for="Email" class="col-form-label"></label>
+        <input asp-for="Email" class="form-control" />
+        <span asp-validation-for="Email"></span>
+    </div>
+    <div class="form-group">
+            <label asp-for="TotalDays" class="col-form-label"></label>
+        <input asp-for="TotalDays" class="form-control" />
+        <span asp-validation-for="TotalDays"></span>
+    </div>
+    <div class="form-group">
+            <label asp-for="Hotel" class="col-form-label"></label>
+        <input asp-for="Hotel" class="form-control" />
+        <span asp-validation-for="Hotel"></span>
+    </div>
+   </div>
+    <input type="submit" value="Create a Booking" class="btn btn-primary col-form-label" />
+</form>
+
+@section validationscript {
+    <partial name="_ValidationScriptsPartial.cshtml" />
+}

@@ -1,0 +1,15 @@
+D:\Projects\HotelReservarion_API\Sercices_Hotel\bin\Debug\net8.0\Sercices_Hotel.deps.json
+D:\Projects\HotelReservarion_API\Sercices_Hotel\bin\Debug\net8.0\Sercices_Hotel.dll
+D:\Projects\HotelReservarion_API\Sercices_Hotel\bin\Debug\net8.0\Sercices_Hotel.pdb
+D:\Projects\HotelReservarion_API\Sercices_Hotel\obj\Debug\net8.0\Sercices_Hotel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\HotelReservarion_API\Sercices_Hotel\obj\Debug\net8.0\Sercices_Hotel.AssemblyInfoInputs.cache
+D:\Projects\HotelReservarion_API\Sercices_Hotel\obj\Debug\net8.0\Sercices_Hotel.AssemblyInfo.cs
+D:\Projects\HotelReservarion_API\Sercices_Hotel\obj\Debug\net8.0\Sercices_Hotel.csproj.CoreCompileInputs.cache
+D:\Projects\HotelReservarion_API\Sercices_Hotel\obj\Debug\net8.0\Sercices_Hotel.dll
+D:\Projects\HotelReservarion_API\Sercices_Hotel\obj\Debug\net8.0\refint\Sercices_Hotel.dll
+D:\Projects\HotelReservarion_API\Sercices_Hotel\obj\Debug\net8.0\Sercices_Hotel.pdb
+D:\Projects\HotelReservarion_API\Sercices_Hotel\obj\Debug\net8.0\ref\Sercices_Hotel.dll
+D:\Projects\HotelReservarion_API\Sercices_Hotel\obj\Debug\net8.0\Sercices_Hotel.csproj.AssemblyReference.cache
+D:\Projects\HotelReservarion_API\Sercices_Hotel\bin\Debug\net8.0\Hotel_Core_Layer.dll
+D:\Projects\HotelReservarion_API\Sercices_Hotel\bin\Debug\net8.0\Hotel_Core_Layer.pdb
+D:\Projects\HotelReservarion_API\Sercices_Hotel\obj\Debug\net8.0\Sercices.627D563B.Up2Date

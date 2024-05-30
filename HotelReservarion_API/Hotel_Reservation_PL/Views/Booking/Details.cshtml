@@ -1,0 +1,44 @@
+﻿@model BookViewModel
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/BookinLayout.cshtml";
+}
+
+<h1>Details of Booking</h1>
+<div class="container">
+    <div class="form-group">
+        <label asp-for="CustomerName" class="col-form-label"></label>
+        <input asp-for="CustomerName" class="form-control" readonly/>
+    </div>
+    <div class="form-group">
+        <label asp-for="PhoneNumber" class="col-form-label"></label>
+        <input asp-for="PhoneNumber" class="form-control" readonly/>
+    </div>
+    <div class="form-group">
+        <label asp-for="CheckIn" class="col-form-label"></label>
+        <input asp-for="CheckIn" class="form-control" readonly/>
+    </div>
+    <div class="form-group">
+        <label asp-for="CheckOut" class="col-form-label"></label>
+        <input asp-for="CheckOut" class="form-control" readonly/>
+    </div>
+    <div class="form-group">
+        <label asp-for="CountRooms" class="col-form-label"></label>
+        <input asp-for="CountRooms" class="form-control" readonly/>
+    </div>
+    <div class="form-group">
+        <label asp-for="NationalId" class="col-form-label"></label>
+        <input asp-for="NationalId" class="form-control" readonly/>
+    </div>
+    <div class="form-group">
+        <label asp-for="Email" class="col-form-label"></label>
+        <input asp-for="Email" class="form-control" readonly/>
+    </div>
+    <div class="form-group">
+        <label asp-for="TotalDays" class="col-form-label"></label>
+        <input asp-for="TotalDays" class="form-control" readonly/>
+    </div>
+    <div class="form-group">
+        <label asp-for="Hotel" class="col-form-label"></label>
+        <input asp-for="Hotel" class="form-control" readonly/>
+    </div>

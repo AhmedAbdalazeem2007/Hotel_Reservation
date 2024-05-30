@@ -1,0 +1,56 @@
+﻿@model RegisterViewModel
+@{
+    ViewData["Title"] = "Register";
+    Layout = "~/Views/Shared/AuthLayout.cshtml";
+}
+<br />
+<br />
+<a asp-controller="Home" asp-action="Index" class="btn btn-secondary"> Back To the Home Page</a>
+<h3>Welcome You Can Register Her </h3>
+<form asp-action="Register">
+    <div asp-validation-summary="All"></div>
+    <div class="form-group">
+        <label asp-for="F_Name"></label>
+        <input type="text" asp-for="F_Name" class="form-control" />
+        <span asp-validation-for="F_Name"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="L_Name"></label>
+        <input type="text" asp-for="L_Name" class="form-control" />
+        <span asp-validation-for="L_Name"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="NationalId"></label>
+        <input type="text" asp-for="NationalId" class="form-control" />
+        <span asp-validation-for="NationalId"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="PhoneNumber"></label>
+        <input type="text" asp-for="PhoneNumber" class="form-control" />
+        <span asp-validation-for="PhoneNumber"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Email"></label>
+        <input type="text" asp-for="Email" class="form-control" />
+        <span asp-validation-for="Email"></span>
+    </div>
+@*     <div class="form-group">
+        <label asp-for="Password"></label>
+        <input type="password"  asp-for="Password" />
+        <span asp-validation-for="Password"></span>
+    </div> *@
+    <div class="form-group">
+        <label asp-for="Gender"></label>
+        <input type="text" asp-for="Gender" class="form-control" />
+        <span asp-validation-for="Gender"></span>
+    </div>
+    <input type="submit" value="Singup"  class="btn btn-primary" />
+    <a asp-controller="Booking" asp-action="Index"> </a>
+    
+</form>
+
+<div> Do you have account ? <a asp-action="Login" class="btn btn-primary"> Sign In</a></div>
+
+        @section validationscript{
+    <partial name="_ValidationScriptsPartial.cshtml" />
+        }

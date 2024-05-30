@@ -1,0 +1,14 @@
+D:\Projects\HotelReservarion_API\Hotel_Core_Layer\bin\Debug\net8.0\Hotel_Core_Layer.deps.json
+D:\Projects\HotelReservarion_API\Hotel_Core_Layer\bin\Debug\net8.0\Hotel_Core_Layer.dll
+D:\Projects\HotelReservarion_API\Hotel_Core_Layer\bin\Debug\net8.0\Hotel_Core_Layer.pdb
+D:\Projects\HotelReservarion_API\Hotel_Core_Layer\obj\Debug\net8.0\Hotel_Core_Layer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\HotelReservarion_API\Hotel_Core_Layer\obj\Debug\net8.0\Hotel_Core_Layer.AssemblyInfoInputs.cache
+D:\Projects\HotelReservarion_API\Hotel_Core_Layer\obj\Debug\net8.0\Hotel_Core_Layer.AssemblyInfo.cs
+D:\Projects\HotelReservarion_API\Hotel_Core_Layer\obj\Debug\net8.0\Hotel_Core_Layer.csproj.CoreCompileInputs.cache
+D:\Projects\HotelReservarion_API\Hotel_Core_Layer\obj\Debug\net8.0\Hotel_Core_Layer.dll
+D:\Projects\HotelReservarion_API\Hotel_Core_Layer\obj\Debug\net8.0\refint\Hotel_Core_Layer.dll
+D:\Projects\HotelReservarion_API\Hotel_Core_Layer\obj\Debug\net8.0\Hotel_Core_Layer.pdb
+D:\Projects\HotelReservarion_API\Hotel_Core_Layer\obj\Debug\net8.0\ref\Hotel_Core_Layer.dll
+D:\Projects\HotelReservarion_API\Hotel_Core_Layer\bin\Debug\net8.0\Hotel_Core_Layer.runtimeconfig.json
+D:\Projects\HotelReservarion_API\Hotel_Core_Layer\obj\Debug\net8.0\Hotel_Core_Layer.csproj.AssemblyReference.cache
+D:\Projects\HotelReservarion_API\Hotel_Core_Layer\obj\Debug\net8.0\Hotel_Core_Layer.genruntimeconfig.cache

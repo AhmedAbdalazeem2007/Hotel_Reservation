@@ -1,0 +1,15 @@
+D:\Projects\Hotel_Reservation_MVC\Hotel_Reservation_BLL\obj\Debug\net8.0\Hotel_Reservation_BLL.csproj.AssemblyReference.cache
+D:\Projects\Hotel_Reservation_MVC\Hotel_Reservation_BLL\obj\Debug\net8.0\Hotel_Reservation_BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Hotel_Reservation_MVC\Hotel_Reservation_BLL\obj\Debug\net8.0\Hotel_Reservation_BLL.AssemblyInfoInputs.cache
+D:\Projects\Hotel_Reservation_MVC\Hotel_Reservation_BLL\obj\Debug\net8.0\Hotel_Reservation_BLL.AssemblyInfo.cs
+D:\Projects\Hotel_Reservation_MVC\Hotel_Reservation_BLL\obj\Debug\net8.0\Hotel_Reservation_BLL.csproj.CoreCompileInputs.cache
+D:\Projects\Hotel_Reservation_MVC\Hotel_Reservation_BLL\bin\Debug\net8.0\Hotel_Reservation_BLL.deps.json
+D:\Projects\Hotel_Reservation_MVC\Hotel_Reservation_BLL\bin\Debug\net8.0\Hotel_Reservation_BLL.dll
+D:\Projects\Hotel_Reservation_MVC\Hotel_Reservation_BLL\bin\Debug\net8.0\Hotel_Reservation_BLL.pdb
+D:\Projects\Hotel_Reservation_MVC\Hotel_Reservation_BLL\bin\Debug\net8.0\Hotel_Reservation_DAL.dll
+D:\Projects\Hotel_Reservation_MVC\Hotel_Reservation_BLL\bin\Debug\net8.0\Hotel_Reservation_DAL.pdb
+D:\Projects\Hotel_Reservation_MVC\Hotel_Reservation_BLL\obj\Debug\net8.0\Hotel_Re.BCFB0619.Up2Date
+D:\Projects\Hotel_Reservation_MVC\Hotel_Reservation_BLL\obj\Debug\net8.0\Hotel_Reservation_BLL.dll
+D:\Projects\Hotel_Reservation_MVC\Hotel_Reservation_BLL\obj\Debug\net8.0\refint\Hotel_Reservation_BLL.dll
+D:\Projects\Hotel_Reservation_MVC\Hotel_Reservation_BLL\obj\Debug\net8.0\Hotel_Reservation_BLL.pdb
+D:\Projects\Hotel_Reservation_MVC\Hotel_Reservation_BLL\obj\Debug\net8.0\ref\Hotel_Reservation_BLL.dll
